@@ -1,0 +1,38 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR35798678,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798691,raji_ramos_ratio_0p01,Raji/Ramos spike-in ratio 0.01,class,manual_override,manual_multi_class
+SRR35798673,raji_ramos_ratio_0p5,Raji/Ramos spike-in ratio 0.5,class,manual_override,manual_multi_class
+SRR35798693,raji_ramos_ratio_0p5,Raji/Ramos spike-in ratio 0.5,class,manual_override,manual_multi_class
+SRR35798684,raji_ramos_ratio_0p01,Raji/Ramos spike-in ratio 0.01,class,manual_override,manual_multi_class
+SRR35798687,raji_cells,Raji cells,class,manual_override,manual_multi_class
+SRR35798700,raji_ramos_ratio_0p00005,Raji/Ramos spike-in ratio 0.00005,class,manual_override,manual_multi_class
+SRR35798690,raji_ramos_ratio_0p01,Raji/Ramos spike-in ratio 0.01,class,manual_override,manual_multi_class
+SRR35798688,ramos_cells,Ramos cells,class,manual_override,manual_multi_class
+SRR35798697,raji_ramos_ratio_0p01,Raji/Ramos spike-in ratio 0.01,class,manual_override,manual_multi_class
+SRR35798702,raji_ramos_ratio_0p1,Raji/Ramos spike-in ratio 0.1,class,manual_override,manual_multi_class
+SRR35798679,ramos_cells,Ramos cells,class,manual_override,manual_multi_class
+SRR35798682,mrc5_cells,MRC-5 cells,class,manual_override,manual_multi_class
+SRR35798668,raji_ramos_ratio_0p0001,Raji/Ramos spike-in ratio 0.0001,class,manual_override,manual_multi_class
+SRR35798662,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798675,raji_ramos_ratio_0p5,Raji/Ramos spike-in ratio 0.5,class,manual_override,manual_multi_class
+SRR35798696,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798681,ntc_pbs,NTC / PBS,class,manual_override,manual_multi_class
+SRR35798664,raji_ramos_ratio_0p1,Raji/Ramos spike-in ratio 0.1,class,manual_override,manual_multi_class
+SRR35798671,raji_ramos_ratio_0p01,Raji/Ramos spike-in ratio 0.01,class,manual_override,manual_multi_class
+SRR35798686,raji_ramos_ratio_0p5,Raji/Ramos spike-in ratio 0.5,class,manual_override,manual_multi_class
+SRR35798701,raji_ramos_ratio_0p0001,Raji/Ramos spike-in ratio 0.0001,class,manual_override,manual_multi_class
+SRR35798666,raji_ramos_ratio_0p00001,Raji/Ramos spike-in ratio 0.00001,class,manual_override,manual_multi_class
+SRR35798665,cell_culture_medium,cell culture medium,class,manual_override,manual_multi_class
+SRR35798670,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798680,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798672,raji_ramos_ratio_0p1,Raji/Ramos spike-in ratio 0.1,class,manual_override,manual_multi_class
+SRR35798683,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798698,raji_ramos_ratio_0p1,Raji/Ramos spike-in ratio 0.1,class,manual_override,manual_multi_class
+SRR35798699,ramos_cells,Ramos cells,class,manual_override,manual_multi_class
+SRR35798695,raji_ramos_ratio_0p0001,Raji/Ramos spike-in ratio 0.0001,class,manual_override,manual_multi_class
+SRR35798692,raji_ramos_ratio_0p1,Raji/Ramos spike-in ratio 0.1,class,manual_override,manual_multi_class
+SRR35798689,raji_ramos_ratio_0p001,Raji/Ramos spike-in ratio 0.001,class,manual_override,manual_multi_class
+SRR35798685,raji_ramos_ratio_0p1,Raji/Ramos spike-in ratio 0.1,class,manual_override,manual_multi_class
+SRR35798703,raji_ramos_ratio_0p5,Raji/Ramos spike-in ratio 0.5,class,manual_override,manual_multi_class
+SRR35798667,water,water,class,manual_override,manual_multi_class
+SRR35798674,raji_cells,Raji cells,class,manual_override,manual_multi_class

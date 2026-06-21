@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR12676594,egfp_cag78,EGFP-CAG78,class,manual_override,manual_multi_class
+SRR13787145,egfp_cag78_db213,EGFP-CAG78 + DB213,class,manual_override,manual_multi_class
+SRR13787138,untransfected_db213,untransfected SK-N-MC + DB213,class,manual_override,manual_multi_class
+SRR12676597,egfp_cag27,EGFP-CAG27,class,manual_override,manual_multi_class
+SRR13787146,egfp_cag27_db213,EGFP-CAG27 + DB213,class,manual_override,manual_multi_class
+SRR13787144,egfp_cag78_db213,EGFP-CAG78 + DB213,class,manual_override,manual_multi_class
+SRR13787139,untransfected_db213,untransfected SK-N-MC + DB213,class,manual_override,manual_multi_class
+SRR12676596,egfp_cag27,EGFP-CAG27,class,manual_override,manual_multi_class
+SRR12676595,egfp_cag78,EGFP-CAG78,class,manual_override,manual_multi_class
+SRR13787147,egfp_cag27_db213,EGFP-CAG27 + DB213,class,manual_override,manual_multi_class
+SRR12676601,untransfected,untransfected SK-N-MC,class,manual_override,manual_multi_class
+SRR12676600,untransfected,untransfected SK-N-MC,class,manual_override,manual_multi_class

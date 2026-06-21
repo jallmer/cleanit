@@ -1,0 +1,12 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR22542111,scrna_ipf_lung_stem_pool,scRNA IPF lung stem-cell pool,class,manual_override,manual_multi_class
+SRR22542200,scrna_control_lung_stem_pool,scRNA control lung stem-cell pool,control,manual_override,manual_multi_class
+SRR22542108,ipf_normal_clone_sc,IPF normal clone stem-cell state,control,manual_override,manual_multi_class
+SRR22542112,scrna_ipf_lung_stem_pool,scRNA IPF lung stem-cell pool,class,manual_override,manual_multi_class
+SRR22542109,ipf_normal_clone_sc,IPF normal clone stem-cell state,control,manual_override,manual_multi_class
+SRR22542105,ipf_normal_clone_ali,IPF normal clone adult-cell ALI state,control,manual_override,manual_multi_class
+SRR22542104,ipf_normal_clone_ali,IPF normal clone adult-cell ALI state,control,manual_override,manual_multi_class
+SRR22542113,ipf_fibrosis_clone_ali,IPF fibrosis clone adult-cell ALI state,class,manual_override,manual_multi_class
+SRR22542107,ipf_fibrosis_clone_sc,IPF fibrosis clone stem-cell state,class,manual_override,manual_multi_class
+SRR22542103,ipf_fibrosis_clone_ali,IPF fibrosis clone adult-cell ALI state,class,manual_override,manual_multi_class
+SRR22542106,ipf_fibrosis_clone_sc,IPF fibrosis clone stem-cell state,class,manual_override,manual_multi_class

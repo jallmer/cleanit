@@ -1,0 +1,5 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR26067912,ataxia_pbmc,ataxia PBMC,class,manual_override,manual_one_class
+SRR26067919,ataxia_pbmc,ataxia PBMC,class,manual_override,manual_one_class
+SRR26067920,ataxia_pbmc,ataxia PBMC,class,manual_override,manual_one_class
+SRR26067911,ataxia_pbmc,ataxia PBMC,class,manual_override,manual_one_class

@@ -1,0 +1,8 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR29234309,caki1_wt,Caki1 WT,control,manual_override,manual_two_class
+SRR29234310,caki1_wt,Caki1 WT,control,manual_override,manual_two_class
+SRR29234306,caki1_kaiso_ko,Caki1 Kaiso KO,treatment,manual_override,manual_two_class
+SRR29234308,caki1_wt,Caki1 WT,control,manual_override,manual_two_class
+SRR29234307,caki1_kaiso_ko,Caki1 Kaiso KO,treatment,manual_override,manual_two_class
+SRR29234305,caki1_kaiso_ko,Caki1 Kaiso KO,treatment,manual_override,manual_two_class
+SRR29234304,caki1_kaiso_ko,Caki1 Kaiso KO,treatment,manual_override,manual_two_class

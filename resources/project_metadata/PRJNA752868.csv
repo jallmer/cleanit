@@ -1,0 +1,21 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR15372475,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372468,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372459,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372472,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372473,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372474,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372471,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372465,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372463,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372467,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372470,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372461,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372460,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372458,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372462,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372457,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372469,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372466,naive_treg,naive Treg,class,manual_override,manual_two_class
+SRR15372456,cd4_mature_naive,CD4 mature naive,class,manual_override,manual_two_class
+SRR15372464,naive_treg,naive Treg,class,manual_override,manual_two_class

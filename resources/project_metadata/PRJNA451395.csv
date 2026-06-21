@@ -1,0 +1,11 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR7058572,smc1a_c_a2027g,SMC1A c.A2027G,class,manual_override,manual_multi_class
+SRR7058576,smc1a_wild_type,SMC1A wild-type,control,manual_override,manual_multi_class
+SRR7058579,smc1a_wild_type,SMC1A wild-type,control,manual_override,manual_multi_class
+SRR7058578,smc1a_wild_type,SMC1A wild-type,control,manual_override,manual_multi_class
+SRR7058575,control,Control,control,manual_override,manual_multi_class
+SRR7058571,smc1a_c_a2027g,SMC1A c.A2027G,class,manual_override,manual_multi_class
+SRR7058580,smc1a_c_a2027g,SMC1A c.A2027G,class,manual_override,manual_multi_class
+SRR7058573,smc1a_c_a2027g,SMC1A c.A2027G,class,manual_override,manual_multi_class
+SRR7058574,control,Control,control,manual_override,manual_multi_class
+SRR7058577,control,Control,control,manual_override,manual_multi_class

@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR7634078,p1_tcp,P1 TCP,class,manual_override,manual_multi_class
+SRR7634075,p1_tcp,P1 TCP,class,manual_override,manual_multi_class
+SRR7634072,p1_tcp,P1 TCP,class,manual_override,manual_multi_class
+SRR7634077,p4_tcp,P4 TCP,class,manual_override,manual_multi_class
+SRR7634071,p4_tcp,P4 TCP,class,manual_override,manual_multi_class
+SRR7634076,p4_scm,P4 SCM,class,manual_override,manual_multi_class
+SRR7634080,p1_scm,P1 SCM,class,manual_override,manual_multi_class
+SRR7634073,p1_scm,P1 SCM,class,manual_override,manual_multi_class
+SRR7634074,p4_tcp,P4 TCP,class,manual_override,manual_multi_class
+SRR7634069,p4_scm,P4 SCM,class,manual_override,manual_multi_class
+SRR7634070,p1_scm,P1 SCM,class,manual_override,manual_multi_class
+SRR7634079,p4_scm,P4 SCM,class,manual_override,manual_multi_class

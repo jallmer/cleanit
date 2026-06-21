@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR25045840,u2os_erastin_r,U2OS-Erastin-R,class,manual_override,manual_multi_class
+SRR25045841,u2os_rsl3_r,U2OS-RSL3-R,class,manual_override,manual_multi_class
+SRR25045846,u2os,U2OS,class,manual_override,manual_multi_class
+SRR25045844,293ft_erastin_r,293FT-Erastin-R,class,manual_override,manual_multi_class
+SRR25045842,u2os_rsl3_r,U2OS-RSL3-R,class,manual_override,manual_multi_class
+SRR25045843,293ft_erastin_r,293FT-Erastin-R,class,manual_override,manual_multi_class
+SRR25045845,u2os,U2OS,class,manual_override,manual_multi_class
+SRR25045838,293ft,293FT,class,manual_override,manual_multi_class
+SRR25045839,u2os_erastin_r,U2OS-Erastin-R,class,manual_override,manual_multi_class
+SRR25045836,293ft_rsl3_r,293FT-RSL3-R,class,manual_override,manual_multi_class
+SRR25045835,293ft_rsl3_r,293FT-RSL3-R,class,manual_override,manual_multi_class
+SRR25045837,293ft,293FT,class,manual_override,manual_multi_class

@@ -1,0 +1,16 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR19842868,aeh,AEH,class,manual_override,manual_multi_class
+SRR19842866,eec,EEC,class,manual_override,manual_multi_class
+SRR17165224,eec,EEC,class,manual_override,manual_multi_class
+SRR17165229,eec,EEC,class,manual_override,manual_multi_class
+SRR19842871,normal_endometrium,Normal endometrium,control,manual_override,manual_multi_class
+SRR17165228,aeh,AEH,class,manual_override,manual_multi_class
+SRR17165231,normal_endometrium,Normal endometrium,control,manual_override,manual_multi_class
+SRR17165226,aeh,AEH,class,manual_override,manual_multi_class
+SRR19842867,aeh,AEH,class,manual_override,manual_multi_class
+SRR19842869,eec,EEC,class,manual_override,manual_multi_class
+SRR19842870,normal_endometrium,Normal endometrium,control,manual_override,manual_multi_class
+SRR17165230,normal_endometrium,Normal endometrium,control,manual_override,manual_multi_class
+SRR17165225,aeh,AEH,class,manual_override,manual_multi_class
+SRR17165223,eec,EEC,class,manual_override,manual_multi_class
+SRR17165227,normal_endometrium,Normal endometrium,control,manual_override,manual_multi_class

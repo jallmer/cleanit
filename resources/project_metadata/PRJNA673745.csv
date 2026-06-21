@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR12964260,zno2,ZnO2,class,manual_override,manual_multi_class
+SRR12964254,zno2_egcg,ZnO2 + EGCG,class,manual_override,manual_multi_class
+SRR12964257,egcg,EGCG,class,manual_override,manual_multi_class
+SRR12964256,egcg,EGCG,class,manual_override,manual_multi_class
+SRR12964255,egcg,EGCG,class,manual_override,manual_multi_class
+SRR12964250,zno2_egcg,ZnO2 + EGCG,class,manual_override,manual_multi_class
+SRR12964259,zno2,ZnO2,class,manual_override,manual_multi_class
+SRR12964252,control,control / con,control,manual_override,manual_multi_class
+SRR12964253,control,control / con,control,manual_override,manual_multi_class
+SRR12964251,zno2_egcg,ZnO2 + EGCG,class,manual_override,manual_multi_class
+SRR12964258,zno2,ZnO2,class,manual_override,manual_multi_class
+SRR12964261,control,control / con,control,manual_override,manual_multi_class

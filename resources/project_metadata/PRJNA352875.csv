@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR5020814,control,control,control,manual_override,manual_multi_class
+SRR5020821,rho0_tnf,rho0 + TNF,class,manual_override,manual_multi_class
+SRR5020816,control,control,control,manual_override,manual_multi_class
+SRR5020820,rho0,rho0 / without mitochondrial DNA,class,manual_override,manual_multi_class
+SRR5020819,tnf_treated_control,TNF-treated control,class,manual_override,manual_multi_class
+SRR5020817,control,control,control,manual_override,manual_multi_class
+SRR5020815,rho0,rho0 / without mitochondrial DNA,class,manual_override,manual_multi_class
+SRR5020818,tnf_treated_control,TNF-treated control,class,manual_override,manual_multi_class
+SRR5020810,rho0_tnf,rho0 + TNF,class,manual_override,manual_multi_class
+SRR5020812,tnf_treated_control,TNF-treated control,class,manual_override,manual_multi_class
+SRR5020813,rho0,rho0 / without mitochondrial DNA,class,manual_override,manual_multi_class
+SRR5020811,rho0_tnf,rho0 + TNF,class,manual_override,manual_multi_class

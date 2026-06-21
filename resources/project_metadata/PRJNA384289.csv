@@ -1,0 +1,15 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR5499419,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499418,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499414,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499423,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499416,primary_colorectal_tumour,primary colorectal tumour,treatment,manual_override,manual_two_class
+SRR5499415,primary_colorectal_tumour,primary colorectal tumour,treatment,manual_override,manual_two_class
+SRR5499417,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499422,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499412,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499421,primary_colorectal_tumour,primary colorectal tumour,treatment,manual_override,manual_two_class
+SRR5499420,primary_colorectal_tumour,primary colorectal tumour,treatment,manual_override,manual_two_class
+SRR5499413,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class
+SRR5499411,primary_colorectal_tumour,primary colorectal tumour,treatment,manual_override,manual_two_class
+SRR5499424,circulating_tumour_cells,blood / circulating tumour cells,treatment,manual_override,manual_two_class

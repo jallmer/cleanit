@@ -1,0 +1,10 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR11263451,siartd1_knockdown_doxycycline,siARTD1 knockdown + doxycycline,class,manual_override,manual_multi_class
+SRR11263457,simock_untreated,siMock untreated,control,manual_override,manual_multi_class
+SRR11263454,simock_doxycycline,siMock + doxycycline,class,manual_override,manual_multi_class
+SRR11263453,simock_doxycycline,siMock + doxycycline,class,manual_override,manual_multi_class
+SRR11263452,simock_doxycycline,siMock + doxycycline,class,manual_override,manual_multi_class
+SRR11263449,siartd1_knockdown_doxycycline,siARTD1 knockdown + doxycycline,class,manual_override,manual_multi_class
+SRR11263450,siartd1_knockdown_doxycycline,siARTD1 knockdown + doxycycline,class,manual_override,manual_multi_class
+SRR11263456,simock_untreated,siMock untreated,control,manual_override,manual_multi_class
+SRR11263455,simock_untreated,siMock untreated,control,manual_override,manual_multi_class

@@ -1,0 +1,9 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR3278985,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR3278984,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR3278937,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR4293022,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR4293016,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR4293010,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR4293006,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class
+SRR3278992,t47d_breast_cancer_cell_line,T47D breast cancer cell line,treatment,manual_override,manual_one_class

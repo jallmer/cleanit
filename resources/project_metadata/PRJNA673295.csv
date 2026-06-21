@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR12951091,ame,AME,class,manual_override,manual_multi_class
+SRR12951090,ame,AME,class,manual_override,manual_multi_class
+SRR12951095,ame_tio2,AME + TiO2,class,manual_override,manual_multi_class
+SRR12951089,tio2,TiO2,class,manual_override,manual_multi_class
+SRR12951086,ame_tio2,AME + TiO2,class,manual_override,manual_multi_class
+SRR12951094,ame_tio2,AME + TiO2,class,manual_override,manual_multi_class
+SRR12951088,tio2,TiO2,class,manual_override,manual_multi_class
+SRR12951093,control,control / com,control,manual_override,manual_multi_class
+SRR12951092,ame,AME,class,manual_override,manual_multi_class
+SRR12951087,tio2,TiO2,class,manual_override,manual_multi_class
+SRR12951097,control,control / com,control,manual_override,manual_multi_class
+SRR12951096,control,control / com,control,manual_override,manual_multi_class

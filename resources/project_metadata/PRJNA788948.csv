@@ -1,0 +1,20 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR17238214,ipsc_clone_10copy,iPSC clone 10 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238215,ipsc_clone_10copy,iPSC clone 10 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238220,cd14_monocytes,CD14+ monocytes P6 GT39m,class,manual_override,manual_multi_class
+SRR17238225,ipsc_clone_11copy,iPSC clone 11 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238211,ipsc_clone_4copy,iPSC clone 4 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238221,cd3_t_cells,CD3+ T cells P6 GT39m,class,manual_override,manual_multi_class
+SRR17238217,nk_cells,NK cells P6 GT39m,class,manual_override,manual_multi_class
+SRR17238210,ipsc_clone_0copy,iPSC clone 0 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238218,cd19_b_cells,CD19+ B cells P6 GT39m,class,manual_override,manual_multi_class
+SRR17238223,ipsc_derived_macrophage_0copy,iPSC-derived macrophage 0 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238208,ipsc_derived_macrophage_11copy,iPSC-derived macrophage 11 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238224,ipsc_derived_macrophage_11copy,iPSC-derived macrophage 11 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238216,cd34_patient_gt39m,CD34+ cells P6 GT39m,class,manual_override,manual_multi_class
+SRR17238222,cd34_normal_donor,CD34+ cells normal donor,control,manual_override,manual_multi_class
+SRR17238219,pmn_cells,PMN cells P6 GT39m,class,manual_override,manual_multi_class
+SRR17238209,ipsc_clone_0copy,iPSC clone 0 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238226,ipsc_clone_11copy,iPSC clone 11 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238213,ipsc_clone_11copy,iPSC clone 11 IL2RG copies,class,manual_override,manual_multi_class
+SRR17238212,ipsc_clone_3copy,iPSC clone 3 IL2RG copies,class,manual_override,manual_multi_class

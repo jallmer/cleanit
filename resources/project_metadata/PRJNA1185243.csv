@@ -1,0 +1,9 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR31320513,wu382_65_d57_lymph_node,WU382-65 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320510,wu382_69_d57_lymph_node,WU382-69 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320508,wu382_70_d57_lymph_node,WU382-70 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320509,wu382_69_d57_lymph_node,WU382-69 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320507,wu382_70_d57_lymph_node,WU382-70 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320515,wu382_71_d57_lymph_node,WU382-71 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320512,wu382_67_d57_lymph_node,WU382-67 day 57 lymph node,class,manual_override,manual_multi_class
+SRR31320511,wu382_67_d57_lymph_node,WU382-67 day 57 lymph node,class,manual_override,manual_multi_class

@@ -1,0 +1,29 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR9282986,bone_marrow_emp,bone marrow EMP,class,manual_override,manual_multi_class
+SRR9283001,bone_marrow_hsc4,bone marrow HSC4,class,manual_override,manual_multi_class
+SRR9282999,bone_marrow_hsc3,bone marrow HSC3,class,manual_override,manual_multi_class
+SRR9282985,bone_marrow_emp,bone marrow EMP,class,manual_override,manual_multi_class
+SRR9282994,bone_marrow_cd34p_hspc,bone marrow CD34+ HSPC,class,manual_override,manual_multi_class
+SRR9282990,bone_marrow_mpp,bone marrow MPP,class,manual_override,manual_multi_class
+SRR9282989,bone_marrow_mpp,bone marrow MPP,class,manual_override,manual_multi_class
+SRR9283003,bone_marrow_hsc4,bone marrow HSC4,class,manual_override,manual_multi_class
+SRR9282991,bone_marrow_hsc2,bone marrow HSC2,class,manual_override,manual_multi_class
+SRR9282995,bone_marrow_cd133p_hsc,bone marrow CD133+ HSC,class,manual_override,manual_multi_class
+SRR9282983,bone_marrow_lmp,bone marrow LMP,class,manual_override,manual_multi_class
+SRR9283007,leukapheresis_emp,leukapheresis EMP,class,manual_override,manual_multi_class
+SRR9282998,leukapheresis_emp,leukapheresis EMP,class,manual_override,manual_multi_class
+SRR9282992,bone_marrow_hsc2,bone marrow HSC2,class,manual_override,manual_multi_class
+SRR9282997,leukapheresis_lmpp,leukapheresis LMPP,class,manual_override,manual_multi_class
+SRR9282987,bone_marrow_hsc1,bone marrow HSC1,class,manual_override,manual_multi_class
+SRR9283008,leukapheresis_lmpp,leukapheresis LMPP,class,manual_override,manual_multi_class
+SRR9283009,leukapheresis_cd90neg_mpp,leukapheresis CD90-negative MPP,class,manual_override,manual_multi_class
+SRR9283006,leukapheresis_cd90neg_mpp,leukapheresis CD90-negative MPP,class,manual_override,manual_multi_class
+SRR9283004,bone_marrow_cd34p_hspc,bone marrow CD34+ HSPC,class,manual_override,manual_multi_class
+SRR9282988,bone_marrow_hsc1,bone marrow HSC1,class,manual_override,manual_multi_class
+SRR9282993,bone_marrow_cd38low_hsc,bone marrow CD38low HSC,class,manual_override,manual_multi_class
+SRR9283010,leukapheresis_cd90pos_hsc,leukapheresis CD90-positive HSC,class,manual_override,manual_multi_class
+SRR9283005,leukapheresis_cd90pos_hsc,leukapheresis CD90-positive HSC,class,manual_override,manual_multi_class
+SRR9282996,bone_marrow_cd90p_hsc,bone marrow CD90+ HSC,class,manual_override,manual_multi_class
+SRR9282984,bone_marrow_lmp,bone marrow LMP,class,manual_override,manual_multi_class
+SRR9283000,bone_marrow_hsc3,bone marrow HSC3,class,manual_override,manual_multi_class
+SRR9283002,bone_marrow_cd90p_hsc,bone marrow CD90+ HSC,class,manual_override,manual_multi_class

@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR29590999,tumor,Tumor,treatment,manual_override,manual_multi_class
+SRR29590995,engager,Engager,class,manual_override,manual_multi_class
+SRR29590992,tumor,Tumor,treatment,manual_override,manual_multi_class
+SRR29590998,naive,Naive,class,manual_override,manual_multi_class
+SRR29590991,tumor,Tumor,treatment,manual_override,manual_multi_class
+SRR29590997,naive,Naive,class,manual_override,manual_multi_class
+SRR29591000,tumor,Tumor,treatment,manual_override,manual_multi_class
+SRR29590994,engager,Engager,class,manual_override,manual_multi_class
+SRR29590993,engager,Engager,class,manual_override,manual_multi_class
+SRR29591002,naive,Naive,class,manual_override,manual_multi_class
+SRR29590996,engager,Engager,class,manual_override,manual_multi_class
+SRR29591001,naive,Naive,class,manual_override,manual_multi_class

@@ -1,0 +1,7 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR21413773,kasumi1_control,Kasumi-1 control / wildtype,control,manual_override,manual_two_class
+SRR21413771,kasumi1_control,Kasumi-1 control / wildtype,control,manual_override,manual_two_class
+SRR21413770,kasumi1_fto_overexpression,Kasumi-1 FTO overexpression,treatment,manual_override,manual_two_class
+SRR21413772,kasumi1_control,Kasumi-1 control / wildtype,control,manual_override,manual_two_class
+SRR21413778,kasumi1_fto_overexpression,Kasumi-1 FTO overexpression,treatment,manual_override,manual_two_class
+SRR21413779,kasumi1_fto_overexpression,Kasumi-1 FTO overexpression,treatment,manual_override,manual_two_class

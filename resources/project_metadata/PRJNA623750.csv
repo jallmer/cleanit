@@ -1,0 +1,13 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR11523099,a549_treated,A549 treated,treatment,manual_override,manual_multi_class
+SRR11523094,hct116_untreated,HCT116 untreated,control,manual_override,manual_multi_class
+SRR11523104,a549_untreated,A549 untreated,control,manual_override,manual_multi_class
+SRR11523093,hct116_treated,HCT116 treated,treatment,manual_override,manual_multi_class
+SRR11523096,hct116_untreated,HCT116 untreated,control,manual_override,manual_multi_class
+SRR11523097,a549_treated,A549 treated,treatment,manual_override,manual_multi_class
+SRR11523100,a549_untreated,A549 untreated,control,manual_override,manual_multi_class
+SRR11523095,hct116_untreated,HCT116 untreated,control,manual_override,manual_multi_class
+SRR11523101,hct116_treated,HCT116 treated,treatment,manual_override,manual_multi_class
+SRR11523103,a549_untreated,A549 untreated,control,manual_override,manual_multi_class
+SRR11523098,a549_treated,A549 treated,treatment,manual_override,manual_multi_class
+SRR11523102,hct116_treated,HCT116 treated,treatment,manual_override,manual_multi_class

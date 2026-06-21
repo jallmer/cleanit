@@ -1,0 +1,22 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR6334423,sensitive_s01,sensitive S01,class,manual_override,manual_multi_class
+SRR6334416,r16_step15,R16 step15,class,manual_override,manual_multi_class
+SRR6334440,r06_step15,R06 step15,class,manual_override,manual_multi_class
+SRR6334419,r14_step15,R14 step15,class,manual_override,manual_multi_class
+SRR6334436,r18_step15,R18 step15,class,manual_override,manual_multi_class
+SRR6334421,sensitive_s03,sensitive S03,class,manual_override,manual_multi_class
+SRR6334446,r14_step15a,R14 step15a,class,manual_override,manual_multi_class
+SRR6334443,sensitive_s02,sensitive S02,class,manual_override,manual_multi_class
+SRR6334438,r14_step15,R14 step15,class,manual_override,manual_multi_class
+SRR6334444,r06_step5,R06 step5,class,manual_override,manual_multi_class
+SRR6334448,parental_caov3,parental / CAOV3,class,manual_override,manual_multi_class
+SRR6334445,r14_step5,R14 step5,class,manual_override,manual_multi_class
+SRR6334420,sensitive_s04,sensitive S04,class,manual_override,manual_multi_class
+SRR6334449,parental_caov3,parental / CAOV3,class,manual_override,manual_multi_class
+SRR6334447,r14_step10,R14 step10,class,manual_override,manual_multi_class
+SRR6334422,sensitive_s02,sensitive S02,class,manual_override,manual_multi_class
+SRR6334442,sensitive_s03,sensitive S03,class,manual_override,manual_multi_class
+SRR6334439,r16_step15,R16 step15,class,manual_override,manual_multi_class
+SRR6334437,r16_step5,R16 step5,class,manual_override,manual_multi_class
+SRR6334418,r06_step15,R06 step15,class,manual_override,manual_multi_class
+SRR6334417,r18_step15,R18 step15,class,manual_override,manual_multi_class

@@ -1,0 +1,22 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR5626177,remission,remission,class,manual_override,manual_two_class
+SRR5626182,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626191,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626176,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626188,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626179,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626178,remission,remission,class,manual_override,manual_two_class
+SRR5626174,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626189,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626186,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626193,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626183,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626172,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626192,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626175,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626184,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626185,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626173,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626180,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626187,aml_case,AML case,treatment,manual_override,manual_two_class
+SRR5626181,aml_case,AML case,treatment,manual_override,manual_two_class

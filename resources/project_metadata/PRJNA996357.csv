@@ -1,0 +1,12 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR25361685,csf_07,CSF_07,class,manual_override,manual_multi_class
+SRR25361680,csf_14,CSF_14,class,manual_override,manual_multi_class
+SRR25361687,csf_17,CSF_17,class,manual_override,manual_multi_class
+SRR25361684,csf_08,CSF_08,class,manual_override,manual_multi_class
+SRR25361679,csf_16,CSF_16,class,manual_override,manual_multi_class
+SRR25361688,csf_02,CSF_02,class,manual_override,manual_multi_class
+SRR25361686,csf_03,CSF_03,class,manual_override,manual_multi_class
+SRR25361682,csf_11,CSF_11,class,manual_override,manual_multi_class
+SRR25361683,csf_09,CSF_09,class,manual_override,manual_multi_class
+SRR25361689,csf_01,CSF_01,class,manual_override,manual_multi_class
+SRR25361681,csf_12,CSF_12,class,manual_override,manual_multi_class

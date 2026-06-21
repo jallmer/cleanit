@@ -1,0 +1,34 @@
+Run,condition,condition_raw,condition_role,class_field,metadata_status
+SRR28819949,h1417,H1417,class,manual_override,manual_multi_class
+SRR28819950,h1417,H1417,class,manual_override,manual_multi_class
+SRR28819945,dms53_sictrl,DMS53 siCtrl,class,manual_override,manual_multi_class
+SRR28819943,dms53_sinfic,DMS53 siNFIC,class,manual_override,manual_multi_class
+SRR28819946,dms53_sictrl,DMS53 siCtrl,class,manual_override,manual_multi_class
+SRR28819939,h841_sictrl,H841 siCtrl,class,manual_override,manual_multi_class
+SRR28819933,ipsc_c6,IPSC_C6,class,manual_override,manual_multi_class
+SRR28819955,h841,H841,class,manual_override,manual_multi_class
+SRR28819957,dms53,DMS53,class,manual_override,manual_multi_class
+SRR28819941,dms53_sinfic,DMS53 siNFIC,class,manual_override,manual_multi_class
+SRR28819948,saec,SAEC,class,manual_override,manual_multi_class
+SRR28819940,h841_sictrl,H841 siCtrl,class,manual_override,manual_multi_class
+SRR28819936,h841_sinfic,H841 siNFIC,class,manual_override,manual_multi_class
+SRR28819944,dms53_sictrl,DMS53 siCtrl,class,manual_override,manual_multi_class
+SRR28819954,h841,H841,class,manual_override,manual_multi_class
+SRR28819934,h841_sinfic,H841 siNFIC,class,manual_override,manual_multi_class
+SRR28819935,h841_sinfic,H841 siNFIC,class,manual_override,manual_multi_class
+SRR28819932,ipsc_c6,IPSC_C6,class,manual_override,manual_multi_class
+SRR28819942,dms53_sinfic,DMS53 siNFIC,class,manual_override,manual_multi_class
+SRR28819930,ipsc_c7,IPSC_C7,class,manual_override,manual_multi_class
+SRR28819959,saec,SAEC,class,manual_override,manual_multi_class
+SRR28819952,h69,H69,class,manual_override,manual_multi_class
+SRR28819928,dms53,DMS53,class,manual_override,manual_multi_class
+SRR28819951,h69,H69,class,manual_override,manual_multi_class
+SRR28819937,ipsc_c6,IPSC_C6,class,manual_override,manual_multi_class
+SRR28819960,saec,SAEC,class,manual_override,manual_multi_class
+SRR28819931,ipsc_c7,IPSC_C7,class,manual_override,manual_multi_class
+SRR28819947,h1417,H1417,class,manual_override,manual_multi_class
+SRR28819958,dms53,DMS53,class,manual_override,manual_multi_class
+SRR28819929,ipsc_c7,IPSC_C7,class,manual_override,manual_multi_class
+SRR28819956,h841,H841,class,manual_override,manual_multi_class
+SRR28819938,h841_sictrl,H841 siCtrl,class,manual_override,manual_multi_class
+SRR28819953,h69,H69,class,manual_override,manual_multi_class
