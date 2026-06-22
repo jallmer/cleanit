@@ -15,7 +15,7 @@ This directory contains all scripts, analysis notebooks, supporting resources, a
 | Channel | Contents |
 |---------|----------|
 | **GitHub** (this repository) | Scripts, notebooks, resources, aggregated result tables, sample data files |
-| **Zenodo** ([DOI: 10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)) | Full per-sample HPC outputs: featureCounts count files, Bowtie2 alignment stats, FastQC reports, Trimmomatic logs, pipeline timings |
+| **Zenodo** ([DOI: 10.5281/zenodo.20787459](https://doi.org/10.5281/zenodo.20787459)) | Full per-sample HPC outputs: featureCounts count files, Bowtie2 alignment stats, FastQC reports, Trimmomatic logs, pipeline timings |
 
 ## Directory Layout
 
