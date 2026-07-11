@@ -1,4 +1,4 @@
-# CleanIt — Shared Materials
+# CleanIt - Shared Materials
 
 **On the need to trim RNA-seq data for transcriptomic data analysis**
 
@@ -8,45 +8,41 @@ Fabian Bräuer and Jens Allmer
 
 ## Overview
 
-This directory contains all scripts, analysis notebooks, supporting resources, and aggregated results from the CleanIt project. The study evaluates whether read trimming is necessary for standard Illumina RNA-seq differential expression workflows by processing approximately one thousand samples across six trimming conditions.
+This directory is the publication-facing `share` repo for CleanIt. GitHub keeps the manuscript-facing subset here: aggregated results, reference resources, and a few example flattened files. Full scripts, notebooks, SQLite state, and the complete flattened HPC outputs are distributed via Zenodo and may exist locally in this directory without being synced to GitHub.
 
 ## Distribution
 
 | Channel | Contents |
 |---------|----------|
-| **GitHub** (this repository) | Scripts, notebooks, resources, aggregated result tables, sample data files |
-| **Zenodo** ([DOI: 10.5281/zenodo.20787459](https://doi.org/10.5281/zenodo.20787459)) | Full per-sample HPC outputs: featureCounts count files, Bowtie2 alignment stats, FastQC reports, Trimmomatic logs, pipeline timings |
+| **GitHub** (this repository) | READMEs, aggregated result tables, reference resources, and a few curated example files from `PRJNA1014965` |
+| **Zenodo** ([DOI: 10.5281/zenodo.20787459](https://doi.org/10.5281/zenodo.20787459)) | Full scripts, notebooks, SQLite state, and the complete flattened HPC outputs |
 
 ## Directory Layout
 
 ```
 share/
-├── scripts/               Pipeline and analysis scripts
-│   ├── pipeline/          HPC processing pipeline (trimming, alignment, counting)
-│   ├── data_acquisition/  SRR download and fetch scripts
-│   ├── analysis/          Post-processing analysis (DE, GSEA, QC model, reports)
-│   └── utilities/         Helper scripts (sex calling, viral profiling, archiving)
-├── notebooks/             Jupyter notebooks for results and methodology
-├── resources/             Adapter sequences, project lists, sample metadata, gene sets
-├── results/               Aggregated analysis outputs (TSV tables)
+├── results/               Aggregated analysis outputs tracked on GitHub
 │   ├── technical/         Count-profile stability, alignment stats, trimming stats
 │   ├── biological/        LOSO concordance, trimming classification, QC model
 │   └── supplementary/     Supplementary tables for the manuscript
-├── data/                  Per-sample HPC outputs (sample files; full data on Zenodo)
+├── resources/             Reference inputs tracked on GitHub
+├── data/                  Example flattened files on GitHub; full bundles on Zenodo
 │   ├── flattened_counts/
 │   ├── flattened_bowtie2_stats/
 │   ├── flattened_fastqc_raw/
 │   ├── flattened_trimmomatic_stats/
 │   ├── flattened_timings/
 │   └── concordance/
-└── srr_queue.db           SQLite database used for pipeline orchestration
+├── scripts/               Local/Zenodo-only operational code
+├── notebooks/             Local/Zenodo-only notebooks
+└── srr_queue.db           Local/Zenodo-only SQLite pipeline database
 ```
 
 ## Reproducing the Analysis
 
-1. Download the full per-sample data from Zenodo and place it under `data/` following the directory layout shown by the sample files.
-2. See `scripts/analysis/` and the numbered scripts (`00_setup_env.sh` through `11_compute_throughput.py`) for the analysis pipeline.
-3. Open the notebooks in `notebooks/` to reproduce figures and tables.
+1. Download the Zenodo release and unpack it into `share/` to populate the full `data/`, `scripts/`, `notebooks/`, and `srr_queue.db` payloads.
+2. Use the GitHub-tracked `results/` and `resources/` trees for manuscript-facing tables and reference inputs.
+3. See [`data/README.md`](./data/README.md), [`scripts/README.md`](./scripts/README.md), and [`notebooks/README.md`](./notebooks/README.md) for the expected local layout after unpacking Zenodo.
 
 ## Software Versions
 
