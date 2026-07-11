@@ -1,6 +1,6 @@
 # Resources
 
-Reference files, adapter sequences, project lists, and sample metadata used throughout the analysis.
+Reference files, adapter sequences, project lists, and sample metadata used throughout the analysis. These remain on GitHub because they are small manuscript-facing inputs.
 
 ## Files
 

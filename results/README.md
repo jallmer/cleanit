@@ -1,6 +1,6 @@
 # Aggregated Results
 
-Pre-computed aggregated result tables from the analysis. These are small enough to include directly in the GitHub repository.
+Pre-computed aggregated result tables from the analysis. These stay on GitHub because they directly support the manuscript and are small enough to version here.
 
 ## `technical/`
 
@@ -17,11 +17,13 @@ Pre-computed aggregated result tables from the analysis. These are small enough 
 
 | File | Description |
 |------|-------------|
-| `bio_concordance.tsv` | LOSO biological concordance metrics (Spearman ρ, Jaccard, direction concordance) per sample × trimming mode |
-| `whole_project_concordance.tsv` | Whole-project (non-LOSO) concordance: DEG counts, Jaccard overlap, effect-size correlation |
+| `bio_concordance_binary.tsv` | LOSO biological concordance metrics (DGE + GSEA: Spearman ρ, Jaccard, direction concordance) per sample × trimming mode, using true binary control/treatment groupings |
 | `classification_summary.tsv` | Summary of sample-specific trimming classification (helpful/neutral/harmful counts per method) |
-| `concordance_summary_by_method.tsv` | Aggregated concordance statistics per trimming method |
 | `qc_model_predictions.tsv` | Random Forest QC model predictions and feature importances |
+| `loso_binary/` | Full LOSO analysis outputs |
+| `loso_binary/deseq2_sample_annotation.tsv` | Binary group annotations for all 41 BioProjects |
+| `loso_binary/results/PRJNA1014965_concordance.tsv` | Example per-project concordance result (full set on [Zenodo](https://doi.org/10.5281/zenodo.21296496)) |
+| `loso_binary/scripts/06b_run_loso_binary.py` | Script to reproduce the LOSO analysis |
 
 ## `supplementary/`
 

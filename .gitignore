@@ -1,0 +1,58 @@
+# Heavy operational material is staged locally in `share/` but distributed via Zenodo.
+srr_queue.db
+
+# Keep only the README on GitHub; notebooks come from the Zenodo bundle.
+notebooks/*
+!notebooks/manuscript/
+!notebooks/manuscript/**
+!notebooks/README.md
+
+# Keep only the top-level README on GitHub; scripts come from the Zenodo bundle.
+scripts/*
+!scripts/README.md
+
+# Script helpers under data/ follow the same Zenodo-only rule.
+data/aligner_benchmark/*.py
+data/aligner_benchmark/*.sh
+
+# Preserve only the curated example flattened files already committed for PRJNA1014965.
+data/concordance/*
+!data/concordance/README.md
+!data/concordance/PRJNA1014965/
+!data/concordance/PRJNA1014965/**
+
+data/flattened_bowtie2_stats/*
+!data/flattened_bowtie2_stats/README.md
+!data/flattened_bowtie2_stats/PRJNA1014965/
+!data/flattened_bowtie2_stats/PRJNA1014965/**
+
+data/flattened_counts/*
+!data/flattened_counts/README.md
+!data/flattened_counts/PRJNA1014965/
+!data/flattened_counts/PRJNA1014965/**
+
+data/flattened_fastqc_raw/*
+!data/flattened_fastqc_raw/README.md
+!data/flattened_fastqc_raw/PRJNA1014965/
+!data/flattened_fastqc_raw/PRJNA1014965/**
+
+data/flattened_timings/*
+!data/flattened_timings/README.md
+!data/flattened_timings/PRJNA1014965/
+!data/flattened_timings/PRJNA1014965/**
+
+data/flattened_trimmomatic_stats/*
+!data/flattened_trimmomatic_stats/README.md
+!data/flattened_trimmomatic_stats/PRJNA1014965/
+!data/flattened_trimmomatic_stats/PRJNA1014965/**
+
+# Future flattened trees should stay local unless a small example is promoted intentionally.
+data/flattened_sexcalls/*
+!data/flattened_sexcalls/README.md
+!data/flattened_sexcalls/PRJNA1014965/
+!data/flattened_sexcalls/PRJNA1014965/**
+
+data/flattened_viral_coverage/*
+!data/flattened_viral_coverage/README.md
+!data/flattened_viral_coverage/PRJNA1014965/
+!data/flattened_viral_coverage/PRJNA1014965/**

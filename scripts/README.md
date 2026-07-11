@@ -1,22 +1,16 @@
 # Scripts
 
-This directory contains all scripts used in the CleanIt analysis, organized by function.
+The operational scripts are distributed via Zenodo and are not part of the GitHub-tracked subset of `share/`. Keep local copies here if you are rebuilding packages or rerunning the workflow; GitHub intentionally keeps only this README.
 
 ## Subdirectories
 
 ### `pipeline/`
-The HPC processing pipeline scripts. The main entry point is `v2_master_node.sh`, which orchestrates SRA conversion, FastQC, Trimmomatic trimming (six modes), Bowtie2 alignment, and featureCounts counting for each SRR.
-
-### `data_acquisition/`
-Scripts for downloading SRR data from NCBI and EBI endpoints (SRA, AWS, GCP, ENA HTTP, ENA Aspera, DDBJ). The pipeline uses endpoint fallback to handle download failures.
+The end-to-end HPC pipeline. This bucket now includes SRR fetching, queue orchestration, Slurm submission, SRA conversion, FastQC, Trimmomatic trimming, Bowtie2 alignment, and featureCounts counting. Files are ordered by stage, with `00_...` reserved for the full per-SRR pipeline entry point.
 
 ### `analysis/`
-Numbered analysis scripts that process HPC outputs into the final results. Run in order from `00_setup_env.sh` through the numbered scripts. Key scripts:
-- `02_evaluate_count_matrices.py` — count-profile stability (Pearson, Spearman, JSD)
-- `06_run_de_gsea.py` — LOSO differential expression and GSEA
-- `07_classify_trimming.py` — sample-specific trimming classification
-- `08_fit_qc_model.py` — Random Forest QC prediction model
-- `11_compute_throughput.py` — computational cost analysis
+Post-flattening manuscript analysis scripts. The active workflow now reads in order from `00_install_analysis_environment.sh` through `11_compute_pipeline_throughput.py`, with additional numbered helpers for LOSO aggregation, whole-project DE/GSEA, QC model validation, and sex-calling support.
 
-### `utilities/`
-Helper scripts for ancillary analyses (sex calling, viral coverage profiling, archive management).
+Scripts that were duplicates, legacy one-offs, bundle/pruning utilities, or the separate aligner benchmark were moved out of the active path into `archive/legacy_code/share_scripts_analysis/`.
+
+### `local/`
+Repo-facing notebook and manuscript helpers. These scripts edit notebooks, assemble report sections, and generate the share-facing statistical notebook and plots from repository-relative paths.
